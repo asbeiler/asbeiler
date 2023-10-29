@@ -26,14 +26,20 @@ I'm a Backend Engineer with a diverse background of experiences in Electrical En
 
 🗣 Agile Methodologies (Scrum Master & Product Owner Exp), Leadership, Communication Across Domains, Critical Thinking, High Stress Environments
 
+---
+
 ### Find Me Elsewhere
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abeiler7)
 [🤗HF Hub🤗](https://huggingface.co/abeiler) 
 &nbsp;
 
-### 🛠Work In Progress🛠
----
+--- 
+
+#### 🛠Work In Progress🛠
+
 🏗 Currently working to merge commit authorship of some repos from another GitHub Account to this one
+
+🧹 Cleaning and Adding README to Thesis Repo with content from full Thesis
 <!--
 **asbeiler/asbeiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
