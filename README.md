@@ -1,10 +1,10 @@
 ### Hi there, I'm Drew! 👋
 
-I'm a Backend Engineer with a diverse background of experiences in Electrical Engineering, Real-Time Embedded Software, DevSecOps, and Cloud Based Microservices, to name a few. My interests are broad and I'm always ready to learn something new and tackle different projects!
+I'm a Backend Engineer with a diverse background of experiences in Electrical Engineering, Real-Time Embedded Software, DevSecOps, and Cloud Based Microservices, to name a few. My interests are diverse and I'm always ready to learn something new and tackle different projects!
 
 ### Current Endeavors
 ---
-🎓 Completing my Masters in CS with a thesis on Data Optimization for Fine-Tuning Large Language Models
+🎓 Completing my Masters in CS with a thesis on Data Optimization for Fine-Tuning Large Language Models - [Thesis Repo](https://github.com/asbeiler/thesis-arithmetic-llm-data)
 
 📚 Reading as much as I can from the fast paced community working towards democratizing LLMs
 
@@ -26,19 +26,14 @@ I'm a Backend Engineer with a diverse background of experiences in Electrical En
 
 🗣 Agile Methodologies (Scrum Master & Product Owner Exp), Leadership, Communication Across Domains, Critical Thinking, High Stress Environments
 
-#### 🛠Work In Progress🛠
----
-🏗 Currently working to merge other GitHub Account into this one
-
-🚧 Master's Thesis repositories will go public by the end of October
-
-🤗🦺 Hugging Face Models & Datasets will go public by the end of October
-
 ### Find Me Elsewhere
-🟦[LinkedIn Profile](www.linkedin.com/in/abeiler)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abeiler7)
+[🤗HF Hub🤗](https://huggingface.co/abeiler) 
+&nbsp;
 
-🤗[Hugging Face Hub](https://huggingface.co/abeiler) 
-
+### 🛠Work In Progress🛠
+---
+🏗 Currently working to merge commit authorship of some repos from another GitHub Account to this one
 <!--
 **asbeiler/asbeiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
